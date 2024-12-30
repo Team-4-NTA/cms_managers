@@ -21,10 +21,10 @@ php artisan passport:client --personal
 docker-compose -f docker-compose.prod.yml up -d --build  
 
 Front  End
-use node version : v22.12.0
+use node version : v20.18.1
 ```bash
 # pnpm
-pnpm install
+npm install
 
 # pnpm
-pnpm run dev
+npm run dev
