@@ -1,4 +1,4 @@
-Hệ thống quản lý nội dung đa người dùng (CMS) với RBAC, SSR, và API First, use Laravel 11 with nuxt3 with laravel passport and pinia  
+Hệ thống quản lý nội dung đa người dùng (CMS) use Laravel 11 with nuxt3 with laravel passport and pinia and shadcn-vue 
 Back End : 
 
 B1. clone source  
