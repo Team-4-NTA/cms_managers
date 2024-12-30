@@ -21,10 +21,15 @@ php artisan passport:client --personal
 docker-compose -f docker-compose.prod.yml up -d --build  
 
 Front  End
-use node version : v20.18.1
-```bash
-# pnpm
-npm install
+## Setup
 
-# pnpm
+## Use node version v20.18.1, and shadcn-vue and taiwindcss for nuxt
+
+Make sure to install dependencies:
+
+```bash
+# npm
+npm install
+```bash
+# npm
 npm run dev
